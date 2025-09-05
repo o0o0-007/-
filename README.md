@@ -126,8 +126,8 @@ line_bot_api = LineBotApi('你的 Channel Access Token')
 handler = WebhookHandler('你的 Channel Secret ') #在 Basic Settings 找到
 
 drive.mount('/content/drive', force_remount=True)
-GDriveJSON = 'linebot.json'(你的json檔)
-GSpreadSheet = 'linebot'(google sheet 名稱)
+GDriveJSON = 'linebot.json'#你的json檔
+GSpreadSheet = 'linebot'#google sheet 名稱
 GsheetKey = 'google sheet 網址(d/後直到/edit)' #圖放程式下參考
 sheet_url='https://docs.google.com/spreadsheets/d/(same as GsheetKey)/'
 

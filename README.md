@@ -82,7 +82,7 @@
 
 -<img width="565" height="241" alt="image" src="https://github.com/user-attachments/assets/a78f1bb4-f25e-4642-b9f8-b98c517c051f" />-
 
-6. 開啟API權限：啟用google sheet API權限
+6. 開啟API權限：啟用google sheets API權限
 
 -<img width="565" height="276" alt="image" src="https://github.com/user-attachments/assets/b78b8d65-c19c-4a93-84a1-813e45914394" />-
 

@@ -404,7 +404,7 @@ if __name__ == "__main__":
 # 成功介面
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/25d1f148-34d9-4991-9cd1-6aa27dba31b2" width="48%">
+  <img src="https://github.com/user-attachments/assets/25d1f148-34d9-4991-9cd1-6aa27dba31b2" width="47.5%">
   <img src="https://github.com/user-attachments/assets/d26bcf06-979a-4438-8154-5ccac25a3bd1" width="45%">
 </div>
 
